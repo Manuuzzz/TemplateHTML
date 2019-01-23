@@ -100,5 +100,25 @@
 	<link rel="stylesheet" href="/css/screen-mobile.css">
 
 	
-	
+	<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CSS Grid — Learn all about CSS Grid with Wes Bos in this free video series!</title>
+    <link rel="stylesheet" href="/stylesheets/build/style-GRID.css?v=3">
+    <link rel="shortcut icon" type="image/png" href="/images/favicon-GRID.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="https://cssgrid.io/images/GRID-social-share.png" property="og:image">
+    <meta content="CSS Grid" property="og:title">
+    <meta content="website" property="og:type">
+    <meta content="https://cssgrid.io" property="og:url">
+    <meta content="CSS Grid" property="og:site_name">
+    <meta content="Learn all about CSS Grid with Wes Bos in this free video series!" property="og:description">
+    <meta name="twitter:card" content="photo">
+    <meta name="twitter:site" content="@wesbos">
+    <meta name="twitter:creator" content="@wesbos">
+    <meta name="twitter:title" content="CSS Grid">
+    <meta name="twitter:description" content="Learn all about CSS Grid with Wes Bos in this free video series!">
+    <meta name="twitter:image" content="https://cssgrid.io/images/GRID-social-share.png">
+    <meta name="twitter:url" content="https://cssgrid.io">
+  </head>
 
