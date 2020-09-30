@@ -1,4 +1,4 @@
-<?php get_header(); ?>
+<?php require_once("header.php") ?>
 
 
-<?php get_footer(); ?>
+<?php require_once("footer.php") ?>
